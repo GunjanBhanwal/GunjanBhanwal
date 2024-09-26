@@ -18,7 +18,7 @@
   📫 How to reach me: gunjanbhanwal21@gmail.com<br><br>
   <span style="display: flex; align-items: center;">
     📄 Know about my experiences 
-    <a href="https://bit.ly/shortened-link" target="_blank" style="margin-left: 5px; display: flex; align-items: center;">
+    <a href="https://drive.google.com/file/d/1x-ANB_nso5j03e_yQUFg8HJe--OrFth1/view?usp=drivesdk" target="_blank" style="margin-left: 5px; display: flex; align-items: center;">
       <img src="https://img.shields.io/badge/Resume-Get%20It!-blue?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" style="margin-bottom: 2px;" />
     </a>
   </span>
