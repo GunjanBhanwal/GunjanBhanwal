@@ -1,6 +1,6 @@
 <h1 align="left">
   <a href="https://github.com/gunjanbhanwal" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20%F0%9F%91%8B%2C%20I'm%20Gunjan;A%20curious%20developer%20from%20India;Building%20cool%20things%20with%20caffeine%20and%20code%20☕;&width=500&height=50">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20%F0%9F%91%8B%2C%20I'm%20Gunjan;&width=500&height=50">
   </a>
 </h1>
 
@@ -23,7 +23,7 @@
     </a>
   </span>
   <br><br>
-  ⚡ Fun fact: I write code better than I can explain what it does!
+  ⚡ Fun fact : I’m a lively storyteller one moment and a quiet watcher the next!
 </p>
 
 <br>
