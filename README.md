@@ -1,93 +1,69 @@
-<h1 align="left">
-  <a href="https://github.com/gunjanbhanwal" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20%F0%9F%91%8B%2C%20I'm%20Gunjan;&width=500&height=50">
-  </a>
-</h1>
+<h1 align="center">👋 Hey there, I'm Gunjan!</h1>
 
-<h3 align="left">A passionate developer from India, building cool things fueled by curiosity and caffeine ☕</h3>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=gunjanbhanwal&label=Profile%20views&color=blueviolet&style=plastic" alt="gunjanbhanwal" /> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Exploring%20the%20digital%20world%20with%20code!;&width=500&height=50">
 </p>
 
-<br>
+<h3 align="center">Software Developer | Problem Solver | Tech Explorer</h3>
 
-<!-- Work section -->
-<p align="left">
-  🌱 I’m currently learning MERN Stack<br><br>
-  📫 How to reach me: gunjanbhanwal21@gmail.com<br><br>
-  <span style="display: flex; align-items: center;">
-    📄 Know about my experiences 
-    <a href="https://drive.google.com/file/d/1x-ANB_nso5j03e_yQUFg8HJe--OrFth1/view?usp=drivesdk" target="_blank" style="margin-left: 5px; display: flex; align-items: center;">
-      <img src="https://img.shields.io/badge/Resume-Get%20It!-blue?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" style="margin-bottom: 2px;" />
-    </a>
-  </span>
-  <br><br>
-  ⚡ Fun fact : I’m a lively storyteller one moment and a quiet watcher the next!
+---
+
+### 🌍 About Me
+
+I'm a tech enthusiast from India, constantly driven by curiosity and a desire to build meaningful things. Whether it's crafting intuitive web apps or exploring the intricacies of data structures, I thrive on creating solutions that solve real-world problems.
+
+- 🔭 Currently focused on mastering **MERN Stack**.
+- 🧠 Passionate about **AI, ML**, and everything in between.
+- 📧 Feel free to reach me at: **gunjanbhanwal21@gmail.com**
+- ⚡ When I’m not coding, you’ll find me immersed in books, sketching ideas, or brainstorming creative solutions.
+
+---
+
+### 🛠️ Tech Stack & Tools I Use
+
+I believe that a developer’s toolkit is never complete—it keeps growing! Here are some of my go-to tools:
+
+| Programming Languages | Frameworks/Libraries | Tools/Other |
+| --------------------- | -------------------- | ----------- |
+| ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus) | ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react) | ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git) |
+| ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss) | ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode) |
+
+---
+
+### 🏆 GitHub Highlights
+
+#### 🎯 **Current Focus**
+I’m on a journey to explore the depths of full-stack development while diving into the world of AI. Check out my latest projects where I experiment with **React**, **MongoDB**, and **Machine Learning** models!
+
+#### 📊 **My GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gunjanbhanwal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjanbhanwal&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<br>
-
-<h3 align="left">Languages and Tools</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android" alt="android" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" alt="java" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus" alt="c++" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" alt="css3" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" alt="html5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="javascript" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" alt="python" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" alt="react" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss" alt="tailwind" />
-  </a>
+#### 🏅 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gunjanbhanwal&theme=tokyonight" alt="GitHub Trophies" />
 </p>
 
-<br>
+---
 
-<h3 align="left">GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunjanbhanwal&show_icons=true&theme=radical" alt="github stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjanbhanwal&theme=radical" alt="streak stats" />
-</p>
+### 🔗 Let's Connect
+I’m always excited to connect with like-minded developers and tech enthusiasts!
 
-<br>
-
-<h3 align="left">Trophies</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gunjanbhanwal&theme=onedark" alt="github trophies" />
-  </a>
-</p>
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/gunjanbhanwal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/gunjanbhanwal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/gunjan_bhanwal/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-SolvedProblems-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-Competitive%20Coding-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
 </p>
 
-<br>
+---
+
+### 💼 Explore My Work
+Curious about what I’ve been up to? Check out my [**Resume**](https://drive.google.com/file/d/1x-ANB_nso5j03e_yQUFg8HJe--OrFth1/view?usp=drivesdk) and let's chat about potential collaborations!
