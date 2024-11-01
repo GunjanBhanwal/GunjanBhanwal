@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Exploring%20the%20digital%20world%20with%20code!;&width=500&height=50">
 </p>
 
-<h3 align="center">Software Developer | Problem Solver | Tech Explorer</h3>
+<h3 align="center">  Problem Solver | Tech Explorer</h3>
 
 ---
 
