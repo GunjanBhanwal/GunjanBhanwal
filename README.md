@@ -10,24 +10,22 @@
 
 ### 🌍 About Me
 
-I'm a tech enthusiast from India, constantly driven by curiosity and a desire to build meaningful things. Whether it's crafting intuitive web apps or exploring the intricacies of data structures, I thrive on creating solutions that solve real-world problems.
+I’m a tech enthusiast from India, fueled by curiosity and a drive to create things that make a difference. Whether it’s designing sleek web apps or solving tricky data structures, I love turning ideas into real-world solutions.
 
-- 🔭 Currently focused on mastering **MERN Stack**.
-- 🧠 Passionate about **AI, ML**, and everything in between.
-- 📧 Feel free to reach me at: **gunjanbhanwal21@gmail.com**
-- ⚡ When I’m not coding, you’ll find me immersed in books, sketching ideas, or brainstorming creative solutions.
-
----
-
+- 🔭 Currently on a journey to master the **MERN Stack**.
+- 🧠 Passionate about **AI, ML**, and all things that make tech smarter.
+- 📧 Get in touch: **gunjanbhanwal21@gmail.com**
+- ⚡ And when I’m not coding, you’ll probably find me binge-watching the latest drama—because sometimes, the best debugging instincts come from plot twists!
 ### 🛠️ Tech Stack & Tools I Use
 
 I believe that a developer’s toolkit is never complete—it keeps growing! Here are some of my go-to tools:
 
-| Programming Languages | Frameworks/Libraries | Tools/Other |
-| --------------------- | -------------------- | ----------- |
+| Programming Languages | Frameworks/Libraries | Tools/Other         |
+| --------------------- | -------------------- | --------------------|
 | ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus) | ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react) | ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git) |
-| ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss) | ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode) |
+| ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap) | ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss) | ![Other](https://img.shields.io/badge/Other-gray?style=for-the-badge&logo=undefined) |
+
 
 ---
 
