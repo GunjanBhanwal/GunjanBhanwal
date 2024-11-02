@@ -10,7 +10,7 @@
 
 ### 🌍 About Me
 
-I’m a tech enthusiast from India, fueled by curiosity and a drive to create things that make a difference. Whether it’s designing sleek web apps or solving tricky data structures, I love turning ideas into real-world solutions.
+I’m a third-year B.Tech student from India, diving into everything tech-related—from crafting sleek web apps to wrestling with data structures. Fueled by curiosity and a zest for learning (not by coffee), I love turning bright ideas into reality, one project at a time!
 
 - 🔭 Currently on a journey to master the **MERN Stack**.
 - 🧠 Passionate about **AI, ML**, and all things that make tech smarter.
@@ -20,19 +20,20 @@ I’m a tech enthusiast from India, fueled by curiosity and a drive to create th
 
 I believe that a developer’s toolkit is never complete—it keeps growing! Here are some of my go-to tools:
 
-| Programming Languages | Frameworks/Libraries | Tools/Other         |
-| --------------------- | -------------------- | --------------------|
+| **Programming Languages** | **Frameworks/Libraries** | **Tools** |
+| -------------------------- | ------------------------- | ----------- |
 | ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus) | ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react) | ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git) |
 | ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap) | ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss) | ![Other](https://img.shields.io/badge/Other-gray?style=for-the-badge&logo=undefined) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge) | ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs) | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio) |
+| ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java) |  |  |
 
 
 ---
 
 ### 🏆 GitHub Highlights
 
-#### 🎯 **Current Focus**
-I’m on a journey to explore the depths of full-stack development while diving into the world of AI. Check out my latest projects where I experiment with **React**, **MongoDB**, and **Machine Learning** models!
+
+
 
 #### 📊 **My GitHub Stats**
 <p align="center">
