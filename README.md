@@ -30,25 +30,6 @@ I believe that a developer’s toolkit is never complete—it keeps growing! Her
 
 ---
 
-### 🏆 GitHub Highlights
-
-
-
-
-#### 📊 **My GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunjanbhanwal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjanbhanwal&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-#### 🏅 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gunjanbhanwal&theme=tokyonight" alt="GitHub Trophies" />
-</p>
-
----
 
 ### 🔗 Let's Connect
 I’m always excited to connect with like-minded developers and tech enthusiasts!
