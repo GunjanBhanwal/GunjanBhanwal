@@ -18,7 +18,7 @@ I’m a third-year B.Tech student from India, diving into everything tech-relate
 - ⚡ And when I’m not coding, you’ll probably find me binge-watching the latest drama—because sometimes, the best debugging instincts come from plot twists!
 ### 🛠️ Tech Stack & Tools I Use
 
-I believe that a developer’s toolkit is never complete—it keeps growing! Here are some of my go-to tools:
+I believe that a developer’s toolkit is never complete it keeps growing! Here are some of my go-to tools:
 
 | **Programming Languages** | **Frameworks/Libraries** | **Tools** |
 | -------------------------- | ------------------------- | ----------- |
