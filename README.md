@@ -10,25 +10,31 @@
 
 ### 🌍 About Me
 
-I’m a third-year B.Tech student from India, diving into everything tech-related from crafting sleek web apps to wrestling with data structures. Fueled by curiosity and a zest for learning (not by coffee), I love turning bright ideas into reality, one project at a time!
+I’m a third-year B.Tech student , diving into everything tech-related from crafting sleek web apps to wrestling with data structures. Fueled by curiosity and a zest for learning (not by coffee).
 
-- 🔭 Currently on a journey to master the **MERN Stack**.
-- 🧠 Passionate about **AI, ML**, and all things that make tech smarter.
+
 - 📧 Get in touch: **gunjanbhanwal21@gmail.com**
 - ⚡ And when I’m not coding, you’ll probably find me binge-watching the latest drama because sometimes, the best debugging instincts come from plot twists!
-### 🛠️ Tech Stack & Tools I Use
 
-I believe that a developer’s toolkit is never complete it keeps growing! Here are some of my go-to tools:
-
-| **Programming Languages** | **Frameworks/Libraries** | **Tools** |
-| -------------------------- | ------------------------- | ----------- |
-| ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus) | ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react) | ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git) |
-| ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap) | ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge) | ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs) | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio) |
-| ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java) |  |  |
-
-
----
+### 🌍 Tools and Technologies 
+<p align="center">
+  <!-- Tools and Technologies Logos -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50" />
+</p>
 
 
 ### 🔗 Let's Connect
