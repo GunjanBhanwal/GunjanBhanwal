@@ -49,7 +49,3 @@ I’m always excited to connect with like-minded developers and tech enthusiasts
   </a>
 </p>
 
----
-
-### 💼 Explore My Work
-Curious about what I’ve been up to? Check out my LinkedIn and let's chat about potential collaborations!
