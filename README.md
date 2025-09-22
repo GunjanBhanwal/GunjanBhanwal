@@ -14,7 +14,7 @@ I’m a B.Tech student , diving into everything tech-related from crafting sleek
 
 
 - 📧 Get in touch: **gunjanbhanwal21@gmail.com**
-- ⚡ And when I’m not coding, you’ll probably find me binge-watching the latest drama because sometimes, the best debugging instincts come from plot twists!
+- ⚡ And when I’m not coding, you’ll probably find me binge-watching , the best debugging instincts come from plot twists!
 
 ### 🌍 Tools and Technologies 
 <p align="center">
