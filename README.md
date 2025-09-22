@@ -10,7 +10,7 @@
 
 ### 🌍 About Me
 
-I’m a third-year B.Tech student , diving into everything tech-related from crafting sleek web apps to wrestling with data structures. Fueled by curiosity and a zest for learning (not by coffee).
+I’m a B.Tech student , diving into everything tech-related from crafting sleek web apps to wrestling with data structures. Fueled by curiosity and a zest for learning (not by coffee).
 
 
 - 📧 Get in touch: **gunjanbhanwal21@gmail.com**
